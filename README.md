@@ -1,1 +1,1 @@
-Download the zip file and run main.java
+Download the zip file and run Main.java
